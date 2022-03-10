@@ -119,7 +119,7 @@ public class MovieSearch extends AppCompatActivity {
 
     public void SearchButton(View v) {
 
-
+        //test
         String myUrl = data;
         RequestTask mh = new RequestTask();
         try {
